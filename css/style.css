@@ -1,7 +1,12 @@
 .title {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif ;
   }
-  body{
-    background-color: lightblue;
+body{
+    background-color: seashell;
     font-size: 200%;
-  }
+    padding-top: 42vh;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif ;
+    font-weight: bold;
+    font-style: oblique;
+    color: darkblue;
+}
